@@ -643,6 +643,7 @@ h3 {
 
   .sobre {
     margin-bottom: 0;
+    padding: 0 10px;
   }
 
   .sobre h3 {
@@ -691,3 +692,4 @@ h3 {
     margin-bottom: 10px;
   }
 }
+
